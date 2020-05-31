@@ -1,9 +1,0 @@
-﻿  Source.cpp
-c:\users\najia\source\repos\project68\project68\source.cpp(163): warning C4018: '<': signed/unsigned mismatch
-c:\users\najia\source\repos\project68\project68\source.cpp(241): warning C4018: '>=': signed/unsigned mismatch
-c:\users\najia\source\repos\project68\project68\source.cpp(281): warning C4018: '>=': signed/unsigned mismatch
-c:\users\najia\source\repos\project68\project68\source.cpp(326): warning C4018: '<': signed/unsigned mismatch
-c:\users\najia\source\repos\project68\project68\source.cpp(341): warning C4018: '<': signed/unsigned mismatch
-c:\users\najia\source\repos\project68\project68\source.cpp(429): warning C4018: '<': signed/unsigned mismatch
-c:\users\najia\source\repos\project68\project68\source.cpp(435): warning C4018: '<': signed/unsigned mismatch
-  Project68.vcxproj -> C:\Users\najia\source\repos\Project68\Debug\Project68.exe
